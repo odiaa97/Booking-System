@@ -8,7 +8,7 @@ This App is for booking-recources.
 You should have 
 [NodeJS](https://nodejs.org/en/),
 [npm](https://www.npmjs.com/package/download),
-[Angular10 CLI](https://angular.io/cli#installing-angular-cli),
+[Angular12 CLI](https://angular.io/cli#installing-angular-cli),
 [Dotnet 5.0 SDK](https://dotnet.microsoft.com/download) and
 [Sql Server Management Studio ](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 installed in your PC to run the application
